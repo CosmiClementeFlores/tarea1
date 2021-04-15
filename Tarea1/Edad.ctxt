@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Edad
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Edad\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=edad
+comment1.target=Edad(int)
+comment2.params=edad
+comment2.target=void\ setEdad(int)
+comment3.params=
+comment3.target=int\ getEdad()
+numComments=4

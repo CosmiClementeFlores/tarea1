@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=cambiadorDeBilletes
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ cambiadorDeBilletes\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ edad\ billetes\ fechaNacimiento
+comment1.target=cambiadorDeBilletes(java.lang.String,\ int,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ saludar()
+comment3.params=
+comment3.target=java.lang.String\ cambiarBilletes()
+comment4.params=edad
+comment4.target=void\ modificarEdadActual(int)
+numComments=5
